@@ -1,2 +1,2 @@
 # Alura-Plus
-Projeto desenvolvido com auxilio da plataforma Alura 
+Projeto desenvolvido com auxílio da plataforma Alura
