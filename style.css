@@ -1,0 +1,35 @@
+:root{
+    --branco-principal: #ffffff;
+    --cinza-secundaria: #c0c0c0;
+    --botao-azul: #167bf7;
+    --cor-de-fundo: #00030c;
+    --font-principal: "Inter";
+}
+
+margin: 0;
+padding: 0;
+
+}
+
+body{
+    background-color: var (__cor_de_fund0):
+    color:var(__branco_principal):
+    font_family:var(__fant_principal):
+    font_size: 16px;
+    font_weight:400:
+
+}
+
+.principal{
+background-image: url(img/Background.png):
+background_repeat:
+background_size:contain:
+align_intems:center:
+text_alingn:center:
+
+}
+
+.container  {
+   width: 100vh:
+
+   
